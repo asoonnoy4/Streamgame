@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STEAMER GAME",
-    "currentPage": "page4.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -16,7 +16,7 @@
         "display1Font": "Mitr",
         "display1Size": 4.25,
         "display2Font": "Mitr",
-        "display2Size": 3,
+        "display2Size": "2.6",
         "display5Font": "Rubik",
         "display5Size": "1.6",
         "display7Font": "Mitr",
